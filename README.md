@@ -15,8 +15,12 @@ campanha-debate-rag/
 ├── CLAUDE.md          # regras do projeto — leitura obrigatória antes de codar
 ├── docs/
 │   ├── PRD.md
-│   └── TRD.md
-├── src/               # código da aplicação (a criar)
+│   ├── TRD.md
+│   ├── ESQUEMA-BACKEND.md
+│   └── PLANO-IMPLEMENTACAO.md
+├── seeds/
+│   └── videos.csv     # fontes de vídeo já resolvidas (curadas à mão) — dado de entrada do seed script
+├── src/               # código da aplicação
 ├── .cursor/rules/     # mesmas regras, em formato Cursor
 └── .github/           # templates de Issue/PR (a criar)
 ```
