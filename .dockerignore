@@ -1,0 +1,10 @@
+.git
+.cursor
+.github
+docs
+*.md
+__pycache__
+*.pyc
+.venv
+venv
+.env

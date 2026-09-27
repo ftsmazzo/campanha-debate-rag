@@ -1,0 +1,10 @@
+---
+description: Regras do projeto Campanha Debate RAG — leitura obrigatória antes de qualquer mudança
+alwaysApply: true
+---
+
+# Regras do projeto
+
+Antes de implementar qualquer mudança neste repositório, leia e siga integralmente `CLAUDE.md` (raiz do projeto) — checklist de segurança, fluxo de Issues/PRs, esteira de qualidade e regras de arquitetura. Consulte também `docs/PRD.md` e `docs/TRD.md` para contexto de produto e decisões técnicas.
+
+Não duplique essas regras aqui — `CLAUDE.md` é a fonte única. Se este arquivo e o `CLAUDE.md` divergirem, o `CLAUDE.md` vence.
